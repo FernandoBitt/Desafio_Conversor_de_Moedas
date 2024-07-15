@@ -4,19 +4,16 @@
  - Projeto Realizado em JAVA, utilizado como estudo para aplicação de consumo de API e utilização e formatação de arquivos JSON</p1>
 
 
-<div align: center>
-   <img width="200" height="150" src=Icon_readme-1.png align="left">
+<div>
    
   # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: 1. Converter Dólar Americano (USD) para Euro (EUR)
+- `Funcionalidade 2`: 2. Converter Euro (EUR) para Dólar Americano (USD)
+- `Funcionalidade 3`: 3. Converter Dólar Americano (USD) para Real Brasileiro (BRL)
+- `Funcionalidade 4`: 4. Converter Real Brasileiro (BRL) para Dólar Americano (USD)
+- `Funcionalidade 5`: 5. Converter Euro (EUR) para Real Brasileiro (BRL)
+- `Funcionalidade 6`: 6. Converter Real Brasileiro (BRL) para Euro (EUR)
 
 </div>
 
